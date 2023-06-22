@@ -1,0 +1,122 @@
+.registration-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.details{
+    font-size: 12px;
+    font-family: georgia, serif;
+    color: powderblue;
+    position: relative;
+    top: -20px;
+}
+.form-text {
+    font-size: 19px;
+    font-family: georgia, serif;
+    color: white;
+
+
+}
+label {
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.registration-container {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.form-title {
+    font-size: 50px;
+    font-family: georgia, serif;
+    color: white;
+    letter-spacing: 0.1em;
+    line-height: 200%;
+    padding-top: 11px;
+}
+
+.reg-page {
+    font-size: 24px;
+    margin-top: 40px;
+    font-family: georgia, serif;
+    color: white;
+    font-weight: normal;
+    line-height: 150%;
+}
+
+.out-names {
+    font-size: 12px;
+    margin-top: -40px;
+    font-family: georgia, serif;
+    color: #b0c4de;
+    font-weight: normal;
+    line-height: 150%;
+}
+
+.form-image-container {
+    position: relative;
+    margin-top: 20px;
+}
+
+.form-image {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    opacity: 0.5 !important;
+}
+
+.image-wrapper {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+    max-width: 300px;
+}
+#city {
+    width: 80%;
+}
+#cellPhone {
+    width: 80%;
+}
+#landLine {
+    width: 80%;
+}
+select.form-control {
+    appearance: none;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>') no-repeat right 0.75rem center/8px 8px;
+    background-color: #fff;
+    cursor: pointer;
+    color: gray;
+}
+.alert-danger {
+    background-color: darkred !important;
+    color: white !important;
+    width: 350px;
+    margin: 0 auto;
+    font-size: 14px;
+
+}

@@ -1,0 +1,76 @@
+/* RegistrationSummary.css */
+
+body {
+    background-color: black;
+    color: white;
+}
+.registration-summary {
+    margin: auto;
+    width: 80%;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: georgia, serif;
+}
+
+.registration-summary h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.registration-summary form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.registration-summary form div {
+    flex: 1 1 200px;
+    margin: 10px;
+}
+
+.registration-summary form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.registration-summary form input {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.registration-summary form button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 2px;
+}
+
+.registration-summary form button[type="button"] {
+    background-color: #6c757d;
+}
+
+.registration-summary table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;  /* Set the table's background color to white */
+    color: black;
+
+}
+
+.registration-summary table th,
+.registration-summary table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.registration-summary table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
