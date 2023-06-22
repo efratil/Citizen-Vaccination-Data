@@ -54,10 +54,10 @@ List of countries with validation from both front and backend, allows selection 
 Filter or sort any column in the data page (summary).
 
 
-![page1](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/a62a83ab-fe3e-4da9-827c-cc76fc48c467)
 
-![page12](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/29971d9b-5cbd-4849-9f10-4d0b17553d41)
+![page1](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/5a019cb8-68b6-43d6-8821-959ce1e23226)
+![page12](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/af86150a-86f3-4053-9e1b-ac5c3b4c1e1e)
+![page2](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/fcb1da3e-caf9-4375-b17e-0f0bdcc600a0)
 
-![page2](https://github.com/efratil/Citizen-Vaccination-Data/assets/91066257/60349847-9800-412e-978b-3bfb8e1d7167)
 
 
